@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PedroFGarcia
 - 👀 I’m interested in back-end programming, automation and IoT
-- 🌱 I’m currently learning Rest API with spring-boot and arduino/esp
+- 🌱 I’m currently learning node.js
 - 📫 How to reach me: pedro_felipe199713@hotmail.com
 
 <!---

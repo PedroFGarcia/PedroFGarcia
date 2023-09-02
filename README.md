@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PedroFGarcia
-- 👀 I’m interested in back-end programming, automation and IoT
+- 👀 I’m interested in data analisys, back-end programming, automation and IoT
 - 📫 How to reach me: pedro_felipe199713@hotmail.com | https://www.linkedin.com/in/pedro-garcia-b47064161
 
 <!---
